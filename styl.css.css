@@ -76,6 +76,12 @@ nav ul a {
     text-decoration: none;
     text-transform: uppercase;
 }
+#logo a {
+    color: white;
+    margin: 0 0 0 50px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
 nav ul a:hover, .aktivni a {
     border-bottom: 2px solid #EF6534;
 }
